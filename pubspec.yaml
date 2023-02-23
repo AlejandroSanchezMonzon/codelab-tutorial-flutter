@@ -1,4 +1,4 @@
-name: codelab
+name: codelab_tutorial_flutter
 description: Tutorial oficial de Flutter.
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
